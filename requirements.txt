@@ -10,7 +10,7 @@ gunicorn==23.0.0
 honcho==1.1.0
 
 # Code quality
-pylint==2.14.0
+pylint==4.0.9
 flake8==4.0.1
 black==26.3.1
 
